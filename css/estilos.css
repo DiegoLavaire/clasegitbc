@@ -1,0 +1,21 @@
+h1 {
+    color:black;
+    background-color: indianred;
+    text-align: center;
+}
+
+nav {
+   margin: 0 auto;
+   background-color: darkseagreen;
+   overflow: hidden;
+}
+
+h2{
+    color: darkcyan;
+    background-color: darkseagreen;
+    text-align: center;
+}
+h3 {
+    color: darkseagreen;
+    text-align: center;
+}
